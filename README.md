@@ -78,6 +78,7 @@ Como o projeto utiliza Módulos ES6 (import/export), ele deve ser aberto via ser
 Sugestão: Utilize a extensão do `Live Server` do VS Code. Vá até o `index.html` 
 e clique com o botão direito no arquivo, selecione a opção: `Open with Live Server`
 
+Ou acesse o link: https://pedrobertha.github.io/space-invaders/
 Controles:
 
 A / D: Movimentação Lateral.
